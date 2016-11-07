@@ -35,3 +35,4 @@ http://williamedwardscoder.tumblr.com/post/24208897480/edit-distance-on-massive-
 
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/api_docs/python/functions_and_classes/shard2/tf.edit_distance.md
 
+# tampa-codernight-20161110
