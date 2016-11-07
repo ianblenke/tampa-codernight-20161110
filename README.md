@@ -2,6 +2,12 @@
 
 https://www.meetup.com/CoderNight/events/234702675/
 
+# Running:
+
+Although the `.ruby_version` is 2.3.1, we really only need ruby 2.2.3+ for the `Etc.nprocessors` mention.
+
+    ./challenge.rb épée
+
 # Challenge: Levenshtein Distance
 
 Two words are friends if they have a Levenshtein distance of 1.
